@@ -1,0 +1,4 @@
+// The program input for thebestaleoapp2024/src/main.leo
+[main]
+public a: u32 = 5u32;
+b: u32 = 10u32;
